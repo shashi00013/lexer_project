@@ -1,4 +1,4 @@
-# Lexical Analyzer (Scanner) Project
+ # Lexical Analyzer (Scanner) Project
 
 A simple but robust lexical analyzer written in C. This tool reads source code and breaks it down into **tokens** (keywords, identifiers, numbers, operators, etc.) while ignoring whitespace and comments.
 
